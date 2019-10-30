@@ -9,7 +9,7 @@ dif
 end
 
 def division(num1, num2)
-pro=num1*num2
+pro=num1/num2
 pro
 end
 
@@ -19,9 +19,10 @@ quo
 end
 
 def modulo(num1, num2)
-
+rem=num1%num2
+rem
 end
 
 def square_root(num)
-
+sqrt(num)
 end
